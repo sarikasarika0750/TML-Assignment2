@@ -15,6 +15,7 @@ Leaderboard: team_LX
 
 Install dependencies:
 pip install torch torchvision safetensors pandas numpy requests
+
 Run the script:
 python submission.py
 
