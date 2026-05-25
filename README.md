@@ -1,4 +1,4 @@
-## Stolen Model Detection — Assignment 2
+## Stolen Model Detection - Assignment 2
 
 ## CMS Assigments Team ID - Team #70
 Sarika 
